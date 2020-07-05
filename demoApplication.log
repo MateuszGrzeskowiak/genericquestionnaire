@@ -1,1 +1,21 @@
 2020-07-05 11:08:19,842 [main] INFO  pl.sda.mg.genericquestionnaire.FileLoader  - {1={content=Czy lubisz koty?}, 2={content=Czy lubisz psy?}}
+2020-07-05 11:35:50,335 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:36:08,747 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 1 -> {content=Czy lubisz koty?}
+2020-07-05 11:36:08,747 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 2 -> {content=Czy lubisz psy?}
+2020-07-05 11:36:08,747 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:47:40,372 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:47:47,094 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 1 -> {content=Czy lubisz koty?}
+2020-07-05 11:47:47,095 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 2 -> {content=Czy lubisz psy?}
+2020-07-05 11:47:47,095 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:48:00,353 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:48:08,208 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 1 -> {content=Czy lubisz koty?}
+2020-07-05 11:48:08,209 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 2 -> {content=Czy lubisz psy?}
+2020-07-05 11:48:08,209 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:50:35,860 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:50:48,168 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:50:53,808 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:51:00,132 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 1 -> {content=Czy lubisz koty?}
+2020-07-05 11:51:00,133 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 2 -> {content=Czy lubisz psy?}
+2020-07-05 11:51:00,134 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - 3 -> {content=Czy lubisz jave?}
+2020-07-05 11:51:00,134 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:51:18,945 [main] INFO  pl.sda.mg.genericquestionnaire.Main  - Please enter command [listQuestions]:
